@@ -78,7 +78,7 @@ Your key is used **only for your extraction requests**.
 ## 🧑‍💻 Local Development
 
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone 
 
 # Install dependencies
 npm install
@@ -87,7 +87,7 @@ npm install
 npm run dev
 
 🔗 Live Preview
-👉 Live Demo: https://your-live-site-link.com
+👉 Live Demo: soooon
 
 🤝 Contributing
 Contributions are welcome and appreciated!

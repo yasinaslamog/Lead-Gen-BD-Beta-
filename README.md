@@ -78,7 +78,7 @@ Your key is used **only for your extraction requests**.
 ## 🧑‍💻 Local Development
 
 # Clone the repository
-git clone 
+git clone https://github.com/yasinaslamog/Lead-Gen-BD-Beta-.git
 
 # Install dependencies
 npm install
